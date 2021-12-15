@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+i will swarm u with 1000 bugs
 Use the left arrow to go back!
